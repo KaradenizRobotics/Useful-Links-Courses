@@ -13,7 +13,9 @@ Self-Driving Cars — Andreas Geiger (Tübingen ML): https://www.youtube.com/pla
 
 CS 329S: Machine Learning Systems Design: https://stanford-cs329s.github.io/syllabus.html
 
-Stanford University CME 193 - Scientific Python: http://web.stanford.edu/class/cme193/
+Stanford CME 193 - Scientific Python: http://web.stanford.edu/class/cme193/
+
+Stanford CS230: Deep Learning | Autumn 2018: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 COMS W4995 Applied Machine Learning Spring 2020 - Schedule : https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/
 
