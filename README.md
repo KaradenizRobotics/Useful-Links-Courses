@@ -24,3 +24,5 @@ Deep learning Masterpiece by Andrew Ng :https://media.licdn.com/dms/document/C56
 Loss Functions (AI Notes): https://vinija.ai/toolkit/loss/
 
 Activation Functions (AI Notes): https://vinija.ai/toolkit/activation/
+
+Fuzzy Systems and Genetic Algorithms: https://vik.wiki/images/5/57/Lagyszamitas_jegyzet_2011_fuzzy_lantos.pdf
